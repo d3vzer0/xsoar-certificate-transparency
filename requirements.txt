@@ -1,0 +1,5 @@
+construct==2.9.45
+pyOpenSSL
+fuzzywuzzy
+python-Levenshtein
+redis

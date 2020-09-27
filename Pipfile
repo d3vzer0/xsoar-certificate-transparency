@@ -1,0 +1,16 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+construct = "2.9.45"
+pyOpenSSL = "*"
+fuzzywuzzy = "*"
+python-Levenshtein = "*"
+redis = "*"
+
+[requires]
+python_version = "3.8"
